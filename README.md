@@ -4,22 +4,34 @@
 <!-- ================================================= -->
 
 <!-- ================= HEADER ================= -->
-<table width="100%" cellpadding="14">
+<table width="100%" cellpadding="16">
   <tr>
-    <td width="160" align="center">
+    <td width="170" align="center">
       <!-- Cartoon Avatar Placeholder -->
-      <!-- You can replace this image URL anytime -->
-      <img src="https://i.imgur.com/8Km9tLL.png" width="140" style="border-radius:50%;" alt="Cartoon Avatar"/>
+      <img src="https://i.imgur.com/8Km9tLL.png" width="145" style="border-radius:50%;" alt="Cartoon Avatar"/>
     </td>
     <td>
       <h1 style="margin-bottom:6px;">👋 Rahul Javahar Chavan</h1>
+      <h4 style="margin-top:0;">AI & Data Science Student • Creative Technologist</h4>
       <p>
-        🎓 <b>Student</b> &nbsp;•&nbsp; 💼 <b>2 Years Experience</b><br/>
-        Passionate about <b>video & image editing</b> and driven by a strong interest in
-        <b>technology and creativity</b>.<br/>
-        Focused on learning and building in <b>AI, development, and digital creation</b>.
+        🎓 <b>Student</b> &nbsp;•&nbsp; 💼 <b>2 Years Hands-on Experience</b><br/>
+        I’m a passionate learner focused on <b>Artificial Intelligence</b>,  
+        combining <b>technology, creativity, and problem-solving</b>.<br/>
+        Actively exploring <b>AI development, web technologies, and digital content creation</b>.
       </p>
     </td>
+  </tr>
+</table>
+
+---
+
+<!-- ================= QUICK STATS ================= -->
+<table width="100%" cellpadding="14">
+  <tr>
+    <td align="center">🚀 <b>Experience</b><br/>2+ Years</td>
+    <td align="center">🤖 <b>Focus</b><br/>AI & ML</td>
+    <td align="center">🎨 <b>Creative</b><br/>Editing & Design</td>
+    <td align="center">🌱 <b>Status</b><br/>Learning & Building</td>
   </tr>
 </table>
 
@@ -28,28 +40,28 @@
 <!-- ================= INTERESTS ================= -->
 ### 🧩 Interests
 <p>
-  <img src="https://img.shields.io/badge/Coding-111111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gaming-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Coding-111111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Designing-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Traveling-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Editing-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Video%20Editing-111111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Videography-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Film%20Making-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gaming-111111?style=for-the-badge"/>
 </p>
 
 ---
 
 <!-- ========== EXPERIENCE & EDUCATION (BENTO GRID) ========== -->
-<table width="100%" cellpadding="14">
+<table width="100%" cellpadding="16">
   <tr>
     <!-- Experience Card -->
     <td width="50%" valign="top">
       <h3>💼 Experience</h3>
       <ul>
         <li><b>Total Experience:</b> 2 Years</li>
-        <li><b>Current Role:</b> Student</li>
-        <li><b>Focus Areas:</b> AI, Development, Creative Technology</li>
+        <li><b>Role:</b> Student Developer</li>
+        <li><b>Domains:</b> AI, Web Development, Data Analysis</li>
+        <li><b>Creative Skills:</b> Video & Image Editing</li>
       </ul>
     </td>
 
@@ -57,9 +69,10 @@
     <td width="50%" valign="top">
       <h3>🎓 Education</h3>
       <ul>
-        <li><b>Degree:</b> AI & Data Science (Pursuing)</li>
-        <li><b>Institute:</b> D.K.T.E Textile and Engineering Institute, Ichalkaranji</li>
-        <li><b>Year:</b> 2023 – 2027</li>
+        <li><b>Degree:</b> B.Tech – Artificial Intelligence & Data Science</li>
+        <li><b>Institute:</b> D.K.T.E Textile & Engineering Institute</li>
+        <li><b>Location:</b> Ichalkaranji, Maharashtra</li>
+        <li><b>Duration:</b> 2023 – 2027</li>
       </ul>
     </td>
   </tr>
@@ -68,15 +81,15 @@
 ---
 
 <!-- ================= SKILLS ================= -->
-### 🛠 Skills
+### 🛠 Technical Skills
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit"/>
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql"/>
 </p>
 
 ---
@@ -84,11 +97,11 @@
 <!-- ================= TOOLS & TECHNOLOGIES ================= -->
 ### ⚙ Tools & Technologies
 <p>
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS%20Code-111111?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular"/>
   <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular"/>
   <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase"/>
@@ -104,13 +117,13 @@
 
 ---
 
-<!-- ================= PORTFOLIO & LINKS ================= -->
-### 🔗 Portfolio & Links
+<!-- ================= CONNECT ================= -->
+### 🔗 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/rahul-chavan-589716374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/rahul-chavan-589716374">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://www.instagram.com/mr_darkmaster?igsh=ajQzNTJ5MGloamxo">
+  <a href="https://www.instagram.com/mr_darkmaster">
     <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="mailto:rahuljavaharchavan13@gmail.com">
@@ -120,10 +133,16 @@
 
 ---
 
-<!-- ================= FOOTER / CONTACT ================= -->
-### 📬 Contact Info
-- 📧 *Email:* rahuljavaharchavan13@gmail.com  
-- 📞 *Phone:* +91 7219528651  
-- 📍 *Country:* India 🇮🇳  
+<!-- ================= FOOTER ================= -->
+### 📬 Contact
+- 📧 **Email:** rahuljavaharchavan13@gmail.com  
+- 📞 **Phone:** +91 7219528651  
+- 📍 **Location:** India 🇮🇳  
+
+---
+
+<p align="center">
+  <i>“Learning every day, building step by step, and creating with purpose.”</i>
+</p>
 
 <!-- =============== END OF README =============== -->
