@@ -7,17 +7,20 @@
 <table width="100%" cellpadding="16">
   <tr>
     <td width="170" align="center">
-      <!-- Cartoon Avatar Placeholder -->
-      <img src="https://i.imgur.com/8Km9tLL.png" width="145" style="border-radius:50%;" alt="Cartoon Avatar"/>
+      <!-- Profile Image -->
+      <img src="https://i.pinimg.com/736x/3b/9d/50/3b9d50a32ed833d9cdc73978e98c8fc2.jpg"
+           width="155"
+           style="border-radius:18px; object-fit:cover;"
+           alt="Profile Image"/>
     </td>
     <td>
       <h1 style="margin-bottom:6px;">👋 Rahul Javahar Chavan</h1>
       <h4 style="margin-top:0;">AI & Data Science Student • Creative Technologist</h4>
       <p>
         🎓 <b>Student</b> &nbsp;•&nbsp; 💼 <b>2 Years Hands-on Experience</b><br/>
-        I’m a passionate learner focused on <b>Artificial Intelligence</b>,  
-        combining <b>technology, creativity, and problem-solving</b>.<br/>
-        Actively exploring <b>AI development, web technologies, and digital content creation</b>.
+        Passionate about <b>Artificial Intelligence</b>, blending
+        <b>technology, creativity, and problem-solving</b>.<br/>
+        Focused on <b>AI development, web technologies, and digital content creation</b>.
       </p>
     </td>
   </tr>
@@ -61,7 +64,7 @@
         <li><b>Total Experience:</b> 2 Years</li>
         <li><b>Role:</b> Student Developer</li>
         <li><b>Domains:</b> AI, Web Development, Data Analysis</li>
-        <li><b>Creative Skills:</b> Video & Image Editing</li>
+        <li><b>Creative:</b> Video & Image Editing</li>
       </ul>
     </td>
 
