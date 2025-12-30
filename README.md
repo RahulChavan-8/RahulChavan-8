@@ -55,21 +55,13 @@
 ---
 
 <!-- ========== EXPERIENCE & EDUCATION (BENTO GRID) ========== -->
+
+    <!-- Experience Card -->
 <table width="100%" cellpadding="16">
   <tr>
-    <!-- Experience Card -->
-    <td width="50%" valign="top">
-      <h3>💼 Experience</h3>
-      <ul>
-        <li><b>Total Experience:</b> 2 Years</li>
-        <li><b>Role:</b> Student Developer</li>
-        <li><b>Domains:</b> AI, Web Development, Data Analysis</li>
-        <li><b>Creative:</b> Video & Image Editing</li>
-      </ul>
-    </td>
 
     <!-- Education Card -->
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
       <h3>🎓 Education</h3>
       <ul>
         <li><b>Degree:</b> B.Tech – Artificial Intelligence & Data Science</li>
@@ -77,7 +69,8 @@
         <li><b>Location:</b> Ichalkaranji, Maharashtra</li>
         <li><b>Duration:</b> 2023 – 2027</li>
       </ul>
-    </td>
+   </td>
+
   </tr>
 </table>
 
