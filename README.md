@@ -56,11 +56,11 @@
 
 <!-- ========== EXPERIENCE & EDUCATION (BENTO GRID) ========== -->
 
-    <!-- Experience Card -->
+    
 <table width="100%" cellpadding="16">
   <tr>
 
-    <!-- Education Card -->
+    
   <td width="50%" valign="top">
       <h3>🎓 Education</h3>
       <ul>
