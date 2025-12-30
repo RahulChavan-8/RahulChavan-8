@@ -1,22 +1,23 @@
-<!-- =============================== -->
-<!-- GitHub Profile README.md       -->
-<!-- Dark Bento-Style Resume Layout -->
-<!-- =============================== -->
+<!-- ================================================= -->
+<!-- GitHub Profile README.md                          -->
+<!-- Modern Dark Bento-Style Portfolio Resume          -->
+<!-- ================================================= -->
 
-<!-- ========= HEADER SECTION ========= -->
+<!-- ================= HEADER ================= -->
 <table width="100%" cellpadding="14">
   <tr>
     <td width="160" align="center">
-      <!-- Cartoon Avatar Placeholder (You can replace this image anytime) -->
+      <!-- Cartoon Avatar Placeholder -->
+      <!-- You can replace this image URL anytime -->
       <img src="https://i.imgur.com/8Km9tLL.png" width="140" style="border-radius:50%;" alt="Cartoon Avatar"/>
     </td>
     <td>
       <h1 style="margin-bottom:6px;">👋 Rahul Javahar Chavan</h1>
       <p>
         🎓 <b>Student</b> &nbsp;•&nbsp; 💼 <b>2 Years Experience</b><br/>
-        Passionate about <b>technology and creativity</b>, with a strong interest in
-        <b>video & image editing</b>. Focused on learning and building in
-        <b>AI, development, and digital creation</b>.
+        Passionate about <b>video & image editing</b> and driven by a strong interest in
+        <b>technology and creativity</b>.<br/>
+        Focused on learning and building in <b>AI, development, and digital creation</b>.
       </p>
     </td>
   </tr>
@@ -24,7 +25,7 @@
 
 ---
 
-<!-- ========= INTERESTS ========= -->
+<!-- ================= INTERESTS ================= -->
 ### 🧩 Interests
 <p>
   <img src="https://img.shields.io/badge/Coding-111111?style=for-the-badge"/>
@@ -39,23 +40,26 @@
 
 ---
 
-<!-- ========= EXPERIENCE & EDUCATION (BENTO GRID) ========= -->
+<!-- ========== EXPERIENCE & EDUCATION (BENTO GRID) ========== -->
 <table width="100%" cellpadding="14">
   <tr>
+    <!-- Experience Card -->
     <td width="50%" valign="top">
       <h3>💼 Experience</h3>
       <ul>
         <li><b>Total Experience:</b> 2 Years</li>
-        <li><b>Role:</b> Student</li>
-        <li><b>Interests:</b> AI, Development, Creative Technology</li>
+        <li><b>Current Role:</b> Student</li>
+        <li><b>Focus Areas:</b> AI, Development, Creative Technology</li>
       </ul>
     </td>
+
+    <!-- Education Card -->
     <td width="50%" valign="top">
       <h3>🎓 Education</h3>
       <ul>
         <li><b>Degree:</b> AI & Data Science (Pursuing)</li>
         <li><b>Institute:</b> D.K.T.E Textile and Engineering Institute, Ichalkaranji</li>
-        <li><b>Duration:</b> 2023 – 2027</li>
+        <li><b>Year:</b> 2023 – 2027</li>
       </ul>
     </td>
   </tr>
@@ -63,7 +67,7 @@
 
 ---
 
-<!-- ========= SKILLS ========= -->
+<!-- ================= SKILLS ================= -->
 ### 🛠 Skills
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python"/>
@@ -77,7 +81,7 @@
 
 ---
 
-<!-- ========= TOOLS & TECHNOLOGIES ========= -->
+<!-- ================= TOOLS & TECHNOLOGIES ================= -->
 ### ⚙ Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
@@ -92,7 +96,7 @@
 
 ---
 
-<!-- ========= LANGUAGES ========= -->
+<!-- ================= LANGUAGES ================= -->
 ### 🌐 Languages
 - English 🇺🇸  
 - Hindi 🇮🇳  
@@ -100,7 +104,7 @@
 
 ---
 
-<!-- ========= PORTFOLIO & LINKS ========= -->
+<!-- ================= PORTFOLIO & LINKS ================= -->
 ### 🔗 Portfolio & Links
 <p>
   <a href="https://www.linkedin.com/in/rahul-chavan-589716374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
@@ -116,13 +120,10 @@
 
 ---
 
-<!-- ========= FOOTER / CONTACT ========= -->
+<!-- ================= FOOTER / CONTACT ================= -->
 ### 📬 Contact Info
 - 📧 *Email:* rahuljavaharchavan13@gmail.com  
 - 📞 *Phone:* +91 7219528651  
 - 📍 *Country:* India 🇮🇳  
 
----
-
-<!-- ===== END OF README ===== -->
-<!-- You can customize avatar, badges, or sections anytime -->
+<!-- =============== END OF README =============== -->
